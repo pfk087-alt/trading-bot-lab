@@ -24,7 +24,7 @@ from trading_bot_lab.dashboard.utils import build_config, normalize_data
 from trading_bot_lab.data import MarketDataStore, get_instrument, list_instruments
 from trading_bot_lab.data.synthetic import generate_synthetic_ohlcv
 from trading_bot_lab.strategies import create_strategy, strategy_catalog
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 logger = logging.getLogger("trading_bot_lab.dashboard")
 

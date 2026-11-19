@@ -19,7 +19,7 @@ from trading_bot_lab.strategies import (
     expand_parameter_grid,
     get_strategy_class,
 )
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 from .metrics import compute_metrics, objective_score
 

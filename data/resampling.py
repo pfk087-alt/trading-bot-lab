@@ -6,7 +6,7 @@ from typing import Any
 
 import pandas as pd
 
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 from .validation import DataValidationError, validate_ohlcv
 

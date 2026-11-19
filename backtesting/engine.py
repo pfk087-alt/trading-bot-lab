@@ -26,7 +26,7 @@ from trading_bot_lab.data.validation import validate_ohlcv
 from trading_bot_lab.indicators import atr
 from trading_bot_lab.risk import RiskManager
 from trading_bot_lab.strategies.base import Strategy, StrategyError
-from trading_bot_lab.types import Direction, Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Direction, Timeframe
 
 from .costs import CostModel
 from .models import BacktestError, BacktestResult, PendingOrder, Position, Trade

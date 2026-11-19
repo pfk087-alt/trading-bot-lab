@@ -13,7 +13,7 @@ from dataclasses import dataclass
 
 from trading_bot_lab.config import CostConfig
 from trading_bot_lab.data.instruments import Instrument
-from trading_bot_lab.types import Direction
+from trading_bot_lab.from trading_bot_lab.bot_types import import Direction
 
 
 @dataclass(frozen=True)

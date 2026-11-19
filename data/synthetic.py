@@ -10,7 +10,7 @@ from __future__ import annotations
 import numpy as np
 import pandas as pd
 
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 from .validation import validate_ohlcv
 

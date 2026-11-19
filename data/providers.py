@@ -14,7 +14,7 @@ from typing import Any
 
 import pandas as pd
 
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 from .resampling import infer_timeframe, resample_ohlcv
 from .validation import DataValidationError, validate_ohlcv

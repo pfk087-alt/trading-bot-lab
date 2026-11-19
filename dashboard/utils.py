@@ -11,7 +11,7 @@ import pandas as pd
 from trading_bot_lab.config import AppConfig
 from trading_bot_lab.data.resampling import infer_timeframe, resample_ohlcv
 from trading_bot_lab.data.validation import DataValidationError, validate_ohlcv
-from trading_bot_lab.types import Timeframe
+from trading_bot_lab.from trading_bot_lab.bot_types import import Timeframe
 
 
 def money(value: Any) -> str:
