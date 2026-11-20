@@ -1,4 +1,6 @@
 """Panel Streamlit de TRADING BOT LAB.
+"import sys"
+"sys.path.append('.')".
 
 Ejecutar desde la raiz del proyecto:
     streamlit run trading_bot_lab/dashboard/app.py
